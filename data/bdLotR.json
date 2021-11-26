@@ -1,0 +1,59 @@
+{
+    "LotR": [
+        {
+            "id": 1,
+            "nombre": "Frodo Bolson",
+            "genero": "masculino",
+            "vivo": true,
+            "amigos": [
+                "Bilbo Bolson",
+                "Sam Gamyi",
+                "Pippin",
+                "Merry"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://i1.wp.com/www.jovenescatolicos.es/wp-content/uploads/2014/01/0005-FrodoBaggins.jpg?fit=298%2C362&ssl=1"
+        },
+        {
+            "id": 2,
+            "nombre": "Gollum",
+            "genero": "masculino",
+            "vivo": false,
+            "amigos": [
+                "Anillo",
+                "Sméagol"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://media.revistagq.com/photos/5ca6023db65710ac8ccab5cd/master/w_1600,c_limit/gollum_andy_serkis_9276.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Gandalf el blanco",
+            "genero": "masculino",
+            "vivo": true,
+            "amigos": [
+                "Bilbo Bolson",
+                "Sam Gamyi",
+                "Pippin",
+                "Merry",
+                "Legolas",
+                "Aragorn",
+                "Gimli"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://i.blogs.es/7c8e1d/gandalf/1366_2000.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Sauron",
+            "genero": "masculino",
+            "vivo": false,
+            "amigos": [
+                "Siervos",
+                "saruman"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://static4.abc.es/media/play/2019/03/08/sauron-kSCB--620x349@abc.jpg"
+        }
+    ]
+}

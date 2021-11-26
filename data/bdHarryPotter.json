@@ -1,0 +1,68 @@
+{
+    "harryPotter": [
+        {
+            "id": 1,
+            "nombre": "Harry Potter",
+            "casa": "Gryffindor",
+            "genero": "masculino",
+            "vivo": true,
+            "amigos": [
+                "Ron Weasley",
+                "Hermione Granger",
+                "Luna Lovegood",
+                "Neville Lomboton"
+            ],
+            "patronus": "Ciervo",
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://www.latercera.com/resizer/6UQf63bGyedD11CYpwYIwd-nBNk=/900x600/filters:focal(717x198:727x188)/cloudfront-us-east-1.images.arcpublishing.com/copesa/NIAEVIVUERDBVPHRWKUDG5Y6AI.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Albus Dumbledore",
+            "casa": "Gryffindor",
+            "genero": "masculino",
+            "vivo": false,
+            "amigos": [
+                "Severus Snape",
+                "Gellert Grindelwald",
+                "Mcgonagall",
+                "Hagrid"
+            ],
+            "patronus": "Fenix",
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://qph.fs.quoracdn.net/main-qimg-ffd5ac769fb35e9490af3b81b44d7eaf"
+        },
+        {
+            "id": 3,
+            "nombre": "Ron Weasley",
+            "casa": "Gryffindor",
+            "genero": "masculino",
+            "vivo": true,
+            "amigos": [
+                "Harry Potter",
+                "Hermione Granger",
+                "Luna Lovegood",
+                "Neville Lomboton"
+            ],
+            "patronus": "Jack Russell Terrier",
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://elcomercio.pe/resizer/9VpM9n9v6HlAX0IP2u9gezKrBSo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/AEWI5IA2LZGFBHGUBG46XIHKUA.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Hermione Granger",
+            "casa": "Gryffindor",
+            "genero": "femenino",
+            "vivo": true,
+            "amigos": [
+                "Ron Weasley",
+                "Harry Potter",
+                "Luna Lovegood",
+                "Neville Lomboton"
+            ],
+            "patronus": "Nutria",
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://tupersonajefavorito.com/wp-content/uploads/2018/04/hermaioni-granger-3.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+  "harryPotter": [
+    {
+      "id": 1,
+      "nombre": "Harry Potter",
+      "casa": "Gryffindor",
+      "genero": "masculino",
+      "vivo": true,
+      "amigos": [
+        "Ron Weasley",
+        "Hermione Granger",
+        "Luna Lovegood",
+        "Neville Lomboton"
+      ],
+      "patronus": "Ciervo",
+      "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imagen": "https://static.wikia.nocookie.net/harrypotter/images/9/97/Harry_Potter.jpg/revision/latest?cb=20140603201724"
+    },
+    {
+      "id": 2,
+      "nombre": "Albus Dumbledore",
+      "casa": "Gryffindor",
+      "genero": "masculino",
+      "vivo": false,
+      "amigos": [
+        "Severus Snape",
+        "Gellert Grindelwald",
+        "Mcgonagall",
+        "Hagrid"
+      ],
+      "patronus": "Fenix",
+      "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imagen": "https://static.wikia.nocookie.net/harrypotter/images/4/40/Albus_Dumbledore_%28HBP_promo%29_3.jpg/revision/latest?cb=20150822232849"
+    },
+    {
+      "id": 3,
+      "nombre": "Ron Weasley",
+      "casa": "Gryffindor",
+      "genero": "masculino",
+      "vivo": true,
+      "amigos": [
+        "Harry Potter",
+        "Hermione Granger",
+        "Luna Lovegood",
+        "Neville Lomboton"
+      ],
+      "patronus": "Jack Russell Terrier",
+      "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imagen": "https://static.wikia.nocookie.net/harrypotter/images/8/85/Ron_Weasley.jpg/revision/latest?cb=20101104210200"
+    },
+    {
+      "id": 4,
+      "nombre": "Hermione Granger",
+      "casa": "Gryffindor",
+      "genero": "femenino",
+      "vivo": true,
+      "amigos": [
+        "Ron Weasley",
+        "Harry Potter",
+        "Luna Lovegood",
+        "Neville Lomboton"
+      ],
+      "patronus": "Nutria",
+      "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imagen": "https://static.wikia.nocookie.net/harrypotter/images/3/34/Hermione_Granger.jpg/revision/latest?cb=20210522145306"
+    }
+  ]
+}
